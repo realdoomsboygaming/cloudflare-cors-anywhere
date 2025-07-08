@@ -5,12 +5,8 @@ CLOUDFLARE-CORS-ANYWHERE
 
 Clone this Repo into the Cloudflare workers to setup your own CORS proxy.
 
-
 Source:
-https://github.com/Zibri/cloudflare-cors-anywhere
-
-Post:
-http://www.zibri.org/2019/07/your-own-cors-anywhere-proxy-on.html
+https://github.com/realdoomsboygaming/cloudflare-cors-anywhere
 
 ## Deployment
 

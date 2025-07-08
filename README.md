@@ -3,6 +3,9 @@ Cloudflare CORS proxy in a worker.
 
 CLOUDFLARE-CORS-ANYWHERE
 
+Clone this Repo into the Cloudflare workers to setup your own CORS proxy.
+
+
 Source:
 https://github.com/Zibri/cloudflare-cors-anywhere
 
